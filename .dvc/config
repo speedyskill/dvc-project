@@ -1,2 +1,4 @@
-['remote "myremote"']
+[core]
+    remote = myrepository
+['remote "myrepository"']
     url = C:\Users\ik316\AppData\Local\Temp\insha-storage
